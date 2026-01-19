@@ -1,0 +1,21 @@
+{
+    "@@locale": "id",
+    "appTitle": "Iatros",
+    "appSubtitle": "Teman Kesehatan Anda",
+    "loginTitle": "Masuk",
+    "registerTitle": "Daftar",
+    "emailLabel": "Email",
+    "passwordLabel": "Kata Sandi",
+    "loginButton": "Masuk",
+    "settingsTitle": "Pengaturan",
+    "personalizationTitle": "Personalisasi",
+    "logoutTitle": "Keluar",
+    "biometricTitle": "Gunakan Biometrik",
+    "biometricSubtitle": "Kunci aplikasi dengan sidik jari atau wajah",
+    "themeTitle": "Tema Terang",
+    "cancelButton": "Batal",
+    "continueButton": "Lanjutkan",
+    "logoutConfirmationTitle": "Apakah Anda yakin?",
+    "logoutConfirmationContent": "Tekan lanjutkan untuk keluar.",
+    "languageTitle": "Bahasa"
+}

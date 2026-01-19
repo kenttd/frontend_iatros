@@ -1,0 +1,21 @@
+{
+    "@@locale": "en",
+    "appTitle": "Iatros",
+    "appSubtitle": "Your Health Companion",
+    "loginTitle": "Login",
+    "registerTitle": "Register",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "loginButton": "Login",
+    "settingsTitle": "Settings",
+    "personalizationTitle": "Personalization",
+    "logoutTitle": "Logout",
+    "biometricTitle": "Use Biometrics",
+    "biometricSubtitle": "Lock app with fingerprint or face ID",
+    "themeTitle": "Light Theme",
+    "cancelButton": "Cancel",
+    "continueButton": "Continue",
+    "logoutConfirmationTitle": "Are you sure?",
+    "logoutConfirmationContent": "Press continue to logout.",
+    "languageTitle": "Language"
+}

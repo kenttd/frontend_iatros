@@ -1,0 +1,10 @@
+dispatch:
+  # Send API traffic to the default service (backend)
+  - url: "api.iatros.kentdonovan.com/*"
+    service: default
+
+  # Send all other traffic to the frontend
+  - url: "iatros.kentdonovan.com/*"
+    service: frontend
+  - url: "www.iatros.kentdonovan.com/*"
+    service: frontend

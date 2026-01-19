@@ -1,0 +1,25 @@
+{
+    "firestore": {
+        "rules": "firestore.rules"
+    },
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "iatros-478211",
+                    "appId": "1:102927143840:android:ed530b98b715a963354ac5",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "iatros-478211",
+                    "configurations": {
+                        "android": "1:102927143840:android:ed530b98b715a963354ac5",
+                        "web": "1:102927143840:web:73767ef78906f410354ac5"
+                    }
+                }
+            }
+        }
+    }
+}
